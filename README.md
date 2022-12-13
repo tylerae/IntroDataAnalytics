@@ -2,7 +2,7 @@
 
 ## This project is meant to show the power of Reinforcement Learning. The model is desgined to train the model to win the game by balancing the pole on the cart. I used Tensor flow to create a network. I learned about hidden layers and nodes within machine learning. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gTGNELz6Kko)
 
 # Data Analysis Results
 
